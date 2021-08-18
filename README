@@ -2,5 +2,5 @@ Auto email file is used for mass mailing.
 
 Addition files required:
 
-1. "email.csv" - This should contain an "email" column in which all the email ids to whom your email is to be sent must be present.
-2. Attachment file - FILE to be sent.
+1. "emails.csv" - This should contain an "emails" column in which all the email ids to whom your email is to be sent must be present.
+2. Attachment file ("xyz.pdf") - FILE to be sent.
